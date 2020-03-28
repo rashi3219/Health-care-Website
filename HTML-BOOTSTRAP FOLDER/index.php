@@ -12,6 +12,7 @@
  
 </head>
 <body>
+	<!---------Header Section-------->
   <div class="header" id="topheader">
 <nav class="navbar navbar-expand-lg fixed-top">
   <div class="container  text-uppercase">
@@ -55,7 +56,7 @@
 </div>
 </nav>
  
-  
+  <!---------Intro Section-------->
   <section id="intro">
    <div class="center-div">
     <h1 class="font-weight-bold">WE PROVIDE TOTAL 
@@ -69,6 +70,10 @@
  
   </div>
   </section>
+	
+	<!---------Carousel-------->
+	
+	
   <section>
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -155,6 +160,9 @@
         </div>
   </section>
 
+	    <!---------Healthcare Schemes-------->
+	    
+	  
   <section id="aboutus">
     <div class="container">
       
@@ -177,6 +185,11 @@
       </div>
     
   </section>
+	  
+	  <!---------Services-------->
+	  
+	  
+	  
   <section class="my-5" id="service">
     <div class="py-5">
       <h2 class="text-center">What Services We Offer</h2>
@@ -205,6 +218,11 @@
     
   </section>
 
+	  
+	  <!---------Contact Us-------->
+	  
+	  
+	  
 <section class="happyclients">
   <div class="container headings text-center">
     <h1 class="text-center font-weight-bold">CONTACT US</h1>
